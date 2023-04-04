@@ -1,0 +1,14 @@
+body { background-color: #D6E6F2;}
+        hr { 
+            border-color: white;
+            border-width: 5px;
+            border-style: dotted none none none;
+            height: 0px;
+            width: 70%;
+        }
+        h1 {color: white;}
+        h2 {color: #769FCD;}
+        h3 {color: #769FCD; text-align: center;}
+    
+        
+#profilepic {border-radius: 100%}    
